@@ -7,6 +7,16 @@ use opensea sdk to generate calldata, create buy order, create sell order and ca
 npm install
 ```
 
+# Configurate Environment variables
+
+You need to create an '.env' file to configurate 
+```
+privateKey
+rinkeby provider url
+mainner provider url
+opensea api key
+```
+
 # Usage 
 1. Generate calldata for Opensea 'atomicMatch_' function.
 
