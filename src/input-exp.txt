@@ -1,0 +1,1 @@
+node src/gen-calldata.js --tokenId="3" --tokenAddress="0x12EE22Fb3e55Ae219164AF8e37A7aE59c0A45858" --accountAddress="0xB84F9393e064762b3B3FB4e35B6c89871aB122b6"
