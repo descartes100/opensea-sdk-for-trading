@@ -1,5 +1,5 @@
 # **opensea-sdk**
-use opensea sdk to generate calldata, create buy order, create sell order and cancel order.
+a fork of opensea sdk to generate calldata, create buy order, create sell order and cancel order.
 
 # Installation
 
